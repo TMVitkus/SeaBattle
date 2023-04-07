@@ -1,0 +1,44 @@
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\MainWindow.g.cs
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\App.g.cs
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.cache
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.lref
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\MainWindow.baml
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.g.resources
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\Style.baml
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\App.baml
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\GameResult.g.cs
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\GameResult.baml
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\Statistic.g.cs
+C:\Users\tomam\source\repos\SeaBattle\SeaBattle\obj\Debug\Statistic.baml
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\Style.baml
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\GameResult.g.cs
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\MainWindow.g.cs
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\Statistic.g.cs
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\App.g.cs
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.cache
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle_MarkupCompile.lref
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\App.baml
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\GameResult.baml
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\MainWindow.baml
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\Statistic.baml
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle.g.resources
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\tomam\OneDrive\Рабочий стол\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb

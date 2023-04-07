@@ -1,0 +1,143 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style x:Key="buttonStatisticsStyle" TargetType="Button">
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="VerticalAlignment" Value="Top"/>
+        <Setter Property="Background" Value="CadetBlue"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="BorderThickness" Value="2"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Width" Value="100"/>
+    </Style>
+
+    <Style x:Key="buttonPlayStyle" TargetType="Button">
+        <Setter Property="Background" Value="CadetBlue"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="BorderThickness" Value="4"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Height" Value="70"/>
+        <Setter Property="Width" Value="120"/>
+        <Setter Property="Margin" Value="0, 300, 0, 0"/>
+        <Setter Property="IsEnabled" Value="False"/>
+    </Style>
+
+    <Style x:Key="borderChoiceStyle" TargetType="Border">
+        <Setter Property="VerticalAlignment" Value="Top"/>
+        <Setter Property="Background" Value="CadetBlue"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="BorderThickness" Value="4"/>
+        <Setter Property="Width" Value="150"/>
+    </Style>
+
+    <Style x:Key="labelStyle" TargetType="Label">
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+
+    <Style x:Key="radioButtonStyle" TargetType="RadioButton">
+        <Setter Property="FontSize" Value="14.7"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+
+    <Style x:Key="labelTimerStyle" TargetType="Label">
+        <Setter Property="FontSize" Value="45"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Margin" Value="50, 475, 0, 0"/>
+        <Setter Property="Foreground" Value="CadetBlue"/>
+    </Style>
+
+    <Style x:Key="labelCommentStyle" TargetType="Label">
+        <Setter Property="VerticalAlignment" Value="Top"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontWeight" Value="DemiBold"/>
+        <Setter Property="Height" Value="50"/>
+        <Setter Property="Width" Value="320"/>
+        <Setter Property="Margin" Value="0, 36, 0, 0"/>
+    </Style>
+
+    <Style x:Key="textBoxNumbersStyle" TargetType="TextBox">
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="VerticalAlignment" Value="Top"/>
+        <Setter Property="Background" Value="CadetBlue"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="FontSize" Value="14.7"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Height" Value="23"/>
+        <Setter Property="Width" Value="300"/>
+        <Setter Property="Margin" Value="68, 100, 0, 0"/>
+        <Setter Property="IsReadOnly" Value="True"/>
+    </Style>
+
+    <Style x:Key="uniformGridLettersStyle" TargetType="UniformGrid">
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="Height" Value="300"/>
+        <Setter Property="Width" Value="30"/>
+        <Setter Property="Margin" Value="27, 0, 0, 0"/>
+        <Setter Property="Columns" Value="1"/>
+        <Setter Property="Rows" Value="10"/>
+    </Style>
+
+    <Style x:Key="textBoxAlphabetStyle" TargetType="TextBox">
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Background" Value="CadetBlue"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="FontSize" Value="14.7"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Width" Value="30"/>
+        <Setter Property="IsReadOnly" Value="True"/>
+    </Style>
+
+    <Style x:Key="uniformGridButtonsStyle" TargetType="UniformGrid">
+        <Setter Property="Height" Value="300"/>
+        <Setter Property="Width" Value="300"/>
+        <Setter Property="Columns" Value="10"/>
+        <Setter Property="Rows" Value="10"/>
+    </Style>
+
+    <Style x:Key="buttonCellStyle" TargetType="Button">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="BorderThickness" Value="2"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Width" Value="30"/>
+    </Style>
+
+    <Style x:Key="buttonInteractionsFieldStyle" TargetType="Button">
+        <Setter Property="Background" Value="CadetBlue"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="BorderThickness" Value="2"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Height" Value="35"/>
+        <Setter Property="Width" Value="130"/>
+    </Style>
+
+    <Style x:Key="labelDeactivationTheUserStyle" TargetType="Label">
+        <Setter Property="Height" Value="0"/>
+        <Setter Property="Width" Value="0"/>
+    </Style>
+
+    <Style x:Key="labelDeactivationTheComputerStyle" TargetType="Label">
+        <Setter Property="Height" Value="300"/>
+        <Setter Property="Width" Value="300"/>
+    </Style>
+
+    <Style x:Key="borderFrameStyle" TargetType="Border">
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="BorderThickness" Value="10"/>
+    </Style>
+
+    <Style x:Key="labelStatisticStyle" TargetType="Label">
+        <Setter Property="FontSize" Value="25"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="Margin" Value="7, 0"/>
+    </Style>
+</ResourceDictionary>
